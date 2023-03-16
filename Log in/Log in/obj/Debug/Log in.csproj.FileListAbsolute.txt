@@ -10,3 +10,4 @@ E:\ProjectOOC\Lab9\Log in\Log in\obj\Debug\Log in.csproj.GenerateResource.cache
 E:\ProjectOOC\Lab9\Log in\Log in\obj\Debug\Log in.csproj.CoreCompileInputs.cache
 E:\ProjectOOC\Lab9\Log in\Log in\obj\Debug\Log in.exe
 E:\ProjectOOC\Lab9\Log in\Log in\obj\Debug\Log in.pdb
+E:\ProjectOOC\Lab9\Log in\Log in\obj\Debug\Log_in.dashboard.resources

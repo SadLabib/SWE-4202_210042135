@@ -15,6 +15,14 @@ namespace Log_in
         public dashboard()
         {
             InitializeComponent();
+            label2.Text = "Welcome! " + log.form1instance.uname;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            log l = new log();
+            l.Show();
+            this.Hide();
         }
     }
 }
